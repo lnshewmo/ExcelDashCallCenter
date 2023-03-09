@@ -7,6 +7,6 @@ Using the tutorial described [here](https://medium.com/@Armonia1999/data-analysi
 
 ## Dashboard
 
-image
+![interactive dashboard](dashboard.gif "call center dashboard")
 
 ### Features
